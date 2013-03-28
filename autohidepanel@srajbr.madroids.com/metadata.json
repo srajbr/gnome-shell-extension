@@ -1,0 +1,8 @@
+{
+	"shell-version": ["3.4","3.6.2"],
+	"uuid": "autohidepanel@srajbr.madroids.com",
+	"name": "Auto Hide Panel",
+	"original-author": "srajbr@gmail.com",
+	"description": "Auto hide panel on mouse out and show panel on mouse hover",
+	"version": 1
+}
